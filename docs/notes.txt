@@ -1,0 +1,9 @@
+
+resources
+adddress
+contact
+note
+
+common resources:
+notes
+
